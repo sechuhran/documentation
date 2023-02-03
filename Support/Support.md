@@ -10,7 +10,7 @@ tag: Support
 ## Support
 {: .no_toc }
 
-Answers to commons errors, if it's uncommon Contact our 24/7 support team.
+Answers to commons errors, if it's uncommon <a href="https://support.cloudm.io/hc/en-us/requests/new">Contact our 24/7 support team</a>.
 
 ---
 <a name="top"></a>
@@ -47,7 +47,7 @@ Answers to commons errors, if it's uncommon <a href="https://support.cloudm.io/h
 
 To expedite the request please fill out the support ticket with the relevent information about the issue that is occuring. Providing screenshots, trace logs, and configuration files can assist us with providing answers faster. There is not an option to export the configuration from the hosted version of the tool, Support already has access to this information.
 
-**NOTE:**  If using CloudM Migrate SAAS, please open a support ticket via our Help Center and inform support of the destination migration domain.
+**NOTE:**  If using CloudM Migrate Hosted, please open a support ticket via our Help Center and inform support of the destination migration domain.
 
 #### How to Export Configuration File 
 

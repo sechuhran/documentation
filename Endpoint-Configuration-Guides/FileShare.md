@@ -1,6 +1,6 @@
 ---
 layout: default
-title: File System
+title: File Share
 grand_parent: Endpoint Configuration Guides
 parent: Self Hosted Guides
 nav_order: 3
@@ -72,7 +72,7 @@ Use the following steps to map the drives:
 | --- | --- | --- |
 | Folder Hierarchies and Files | Yes| Yes |        
 | Truncate Oversize Paths | No | Yes |         
-| Rename Illegal File Names | No | Yes |       
+| Rename Illegal File Names | N/A | Yes |       
 | Preserve File Dates | Yes | Yes | 
 | Folder and File ACLs | Yes | Yes | 
 | Active Directory Permissions | Yes | Yes | 

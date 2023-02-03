@@ -1,12 +1,12 @@
 ---
 layout: default
-title: M365
+title: Microsoft 365
 parent: Support
 has_children: false
-nav_order: 3
+nav_order: 1
 ---
 
-## M365 Troubleshooting
+## Microsoft 365 Troubleshooting
 {: .no_toc }
 
 ---
@@ -21,8 +21,7 @@ nav_order: 3
 </details>
 
 
-#### Microsoft Throttling and Quotas
-{: .no_toc }
+### Microsoft Throttling and Quotas
 
 Microsoft Graph allows you to access data in multiple services, such as Outlook or Azure Active Directory. These services impose their own throttling limits.
 
